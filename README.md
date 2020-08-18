@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on my CSUMB Capstone, TopDownSpeed, which is a MOBA style with a twist of isolated team lanes and more heavy focus on PVE.
 - 🌱 I’m currently learning sockets.io and realtime networking for multiplayer games.
 
+</br>
+
 <a href="https://twitter.com/DevAnelon">
   <img align="left" alt="Andrew Bell | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
