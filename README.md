@@ -1,6 +1,6 @@
 ### Hello, I'm Andrew Bell! 🔮
 
-- 🔭 I’m currently working on my CSUMB Capstone, TopDownSpeed, which is a MOBA style with a twist of isolated team lanes and more heavy focus on PVE.
+- 🔭 I’m currently working on my CSUMB Capstone, [Mirrored Fantasy](https://github.com/Anelon/Mirrored-Fantasy), which is a MOBA style with a twist of isolated team lanes and more heavy focus on PVE.
 - 🌱 I’m currently learning sockets.io and realtime networking for multiplayer games.
 - 🔗 [View my Portfolio](www.bell-andrew.com/Portfolio)
 
