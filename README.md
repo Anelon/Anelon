@@ -2,7 +2,7 @@
 
 - 🔭 I’m forever working on my CSUMB Capstone now side project, [Mirrored Fantasy](https://github.com/Anelon/Mirrored-Fantasy), which is a MOBA style with a twist of isolated team lanes and more heavy focus on PVE.
 - 🌱 I’m currently learning sockets.io and realtime networking for multiplayer games.
-- 🔗 [View my Portfolio](www.bell-andrew.com/Portfolio)
+- 🔗 [View my Portfolio](http://www.bell-andrew.com/Portfolio)
 
 </br>
 
